@@ -2,10 +2,10 @@ import React from 'react';
 
 function Header(){
     return(
-        <Header>{
-            "The Little Mermaid by Hans Christian Andersen"
-        }
-        </Header>
+        <header>
+            <h1>"The Little Mermaid" by Hans Christian Andersen</h1>
+        </header>
     );
     }
 
+export default Header;
