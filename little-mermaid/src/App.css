@@ -2,4 +2,11 @@ body{
 
 font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;
+background-color: rgb(204, 255, 238);
+
 }
+
+header, footer{
+  font-weight: bold;
+}
+
